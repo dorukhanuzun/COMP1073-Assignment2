@@ -1,0 +1,22 @@
+.smallPic{
+    display:block;
+    filter: grayscale(1);
+}
+
+li{
+    list-style-type: none;
+    float: left;
+    border: dotted;
+}
+
+h1{
+    text-align: center;
+}
+
+html{
+    background-color: cornsilk;
+}
+
+figcaption{
+    text-align: center;
+}
